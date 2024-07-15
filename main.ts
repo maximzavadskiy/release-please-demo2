@@ -1,3 +1,3 @@
 export default function greeter(firstName: string) {
-    console.log(`Yo,  ${firstName}. What day it is today?`)
+    console.log(`New! Yo,  ${firstName}. What day it is today?`)
 }
