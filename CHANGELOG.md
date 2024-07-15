@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2024-07-15)
+
+
+### Features
+
+* ask day ([8a02a46](https://github.com/maximzavadskiy/release-please-demo2/commit/8a02a46827af1d89bf5c2533ac38210a43661684))
+
 ## [1.4.0](https://github.com/maximzavadskiy/test-release-please/compare/v1.3.0...v1.4.0) (2024-07-15)
 
 
