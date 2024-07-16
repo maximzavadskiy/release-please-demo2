@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.0-rc](https://github.com/maximzavadskiy/release-please-demo2/compare/release-please-v0.0.1...release-please-v0.1.0-rc) (2024-07-16)
+
+
+### Features
+
+* add New! random greeter ([bb80d78](https://github.com/maximzavadskiy/release-please-demo2/commit/bb80d7851215d3fdd0a34f33629dcfc0f34e110e))
+* ask day ([8a02a46](https://github.com/maximzavadskiy/release-please-demo2/commit/8a02a46827af1d89bf5c2533ac38210a43661684))
+
+
+### Bug Fixes
+
+* revert  release-please-config.json to original ([f48f0b3](https://github.com/maximzavadskiy/release-please-demo2/commit/f48f0b3a132b8bf727b461b49cbf4ef1d8bf155b))
+
 ## [1.4.0](https://github.com/maximzavadskiy/test-release-please/compare/v1.3.0...v1.4.0) (2024-07-15)
 
 
