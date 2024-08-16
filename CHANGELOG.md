@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0-rc](https://github.com/maximzavadskiy/release-please-demo2/compare/v0.1.0-rc...v1.0.0-rc) (2024-08-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* support lastName and firstName
+
+### Features
+
+* support lastName and firstName ([d9c8c47](https://github.com/maximzavadskiy/release-please-demo2/commit/d9c8c4751c5c8d192d92666f90b168897c2010f2))
+
 ## [0.1.0-rc](https://github.com/maximzavadskiy/release-please-demo2/compare/release-please-v0.0.1...release-please-v0.1.0-rc) (2024-07-16)
 
 
